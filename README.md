@@ -1,11 +1,12 @@
-##Desafio_Idevs
+## Desafio_Idevs
 
-##Ferramentas Utilizadas
+## Ferramentas Utilizadas
  JavaSe-11
  IDE Eclipse
 
 
-##Como Utilizar
+## Como Utilizar
+
 # Clonar este direito
 $ git clone  https://github.com/ANDRE-LCDS/desafio_idevs
 
@@ -18,6 +19,5 @@ $ java Desafio_03
 
 # Pronto!
 
-
-#Pode-se utilizar também IDE's com suporte para a linguagem Java, como o próprio Eclipse, ue foi utilizado para desenvolver o código.
-#Recomendo o uso através da IDE, para vizualização do código junto a utilização.
+# Pode-se utilizar também IDE's com suporte para a linguagem Java, como o próprio Eclipse, ue foi utilizado para desenvolver o código.
+# Recomendo o uso através da IDE, para vizualização do código junto a utilização
