@@ -2,8 +2,8 @@
 
 ## Ferramentas Utilizadas
 
- JavaSe-11
- IDE Eclipse
+ JavaSe-11;
+ IDE Eclipse;
 
 
 ## Como Utilizar
